@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Turret+Road&display=swap");
+body {
+ background-image: radial-gradient(circle, #9ab0d1, #28c5f3, #00dae6, #00e89f, #54eb12);
+ font-family: 'Turret Road', cursive;
+ text-align: center;
+ background-position: fixed;
+}
